@@ -1,0 +1,12 @@
+# ignore editor config files
+/.vscode/
+/.idea/
+
+# ignore emacs backup files
+*~
+
+#ignore package-lock.json
+package-lock.json
+
+#ignore node_modules
+/node_modules/
