@@ -5,8 +5,8 @@
 # ignore emacs backup files
 *~
 
-#ignore package-lock.json
+# ignore package-lock.json
 package-lock.json
 
-#ignore node_modules
+# ignore node_modules
 /node_modules/
