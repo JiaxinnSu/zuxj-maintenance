@@ -15,7 +15,7 @@ export const pagesCommonConfig: Configuration = {
                     {
                         loader: 'ts-loader',
                         options: {
-                            configFile: 'tsconfig.json'
+                            configFile: resolve(pagesSrcPath, 'tsconfig.json')
                         }
                     }
                 ]
